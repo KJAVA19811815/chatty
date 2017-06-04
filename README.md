@@ -23,6 +23,10 @@ npm start
 open http://localhost:3000
 ```
 
+Extra stuff
+
+The chatty server file is server.js and the server is the server.2.js, this is because
+i put both files together and then i had to seperate them out.
 ### Static Files
 
 You can store static files like images, fonts, etc in the `build` folder.
